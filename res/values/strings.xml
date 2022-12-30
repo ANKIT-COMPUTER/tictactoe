@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gaming App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="player_1">Player One</string>
+    <string name="player_2">Player Two</string>
+    <string name="classic">Classic</string>
+    <string name="advance">Advance</string>
+    <string name="name">Welcome to Game</string>
+    <string name="title_activity_classic">Classic</string>
+    <string name="title_activity_advance">Advance</string>
+    <string name="game1">Classic tic_tac_toe Game</string>
+    <string name="game2">Advance tic_tac_toe Game</string>
+    <string name="result">Result</string>
+    <string name="close">Close</string>
+     <string name="won"> You Won </string>
+      <string name="ok">OK</string>
+
+</resources>
